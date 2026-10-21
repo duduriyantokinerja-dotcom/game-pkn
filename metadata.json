@@ -1,0 +1,6 @@
+{
+  "name": "Catch Me If You Can! - PKn Kelas 7 IFP",
+  "description": "Game edukasi interaktif multiplayer hingga 5 pemain untuk IFP (Interactive Flat Panel) sekolah pada materi PKn Kelas 7 SMP dengan sistem catch chase, kuis bertahap, leaderboard real-time, dan chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
